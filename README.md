@@ -1,2 +1,2 @@
-# simula-uib-conference-poster
-Simula UiB conference poster LaTeX template
+# Simula UiB Conference Poster
+Simula UiB conference poster LaTeX template.
